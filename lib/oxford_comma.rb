@@ -7,3 +7,4 @@ end
 
 def oxford_comma1(array)
   ['kiwi','durian'].join(''+'and'+'')
+end
